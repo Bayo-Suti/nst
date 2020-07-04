@@ -3,10 +3,10 @@ date_default_timezone_set('Asia/Bandung');
 include "function.php";
 ulang:
 // function change(){
-echo color("red","          SUBSCRIBE YOUTUBE HILMAWAN TUBE\n");
+echo color("red","                SALAM GOJEK RANTAUPRAPAT           \n");
 echo color("white","           Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
-echo color("red","  SUBSCRIBE  ITU GRATIS!!        \n");
-echo color("yellow","          WAJIB (62 BUKAN 08) \n");
+echo color("red","          CARI MAKAN GRATIS, BAYO NASOETION        \n");
+echo color("yellow","              WAJIB (62 BUKAN 08)               \n");
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         echo color("green"," NOMOR FRESH : ");
